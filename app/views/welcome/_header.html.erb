@@ -1,0 +1,20 @@
+    <div class="row">
+    	<nav class="navbar navbar-default navbar-fixed-top">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <!-- <span class="glyphicon glyphicon-arrow-down"></span> -->
+                  MENU
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="collapse">
+                <ul class="nav navbar-nav">
+                    <li><%= link_to 'Blog', controller: 'articles' %></li>
+                    <li><%= link_to 'New Article', new_article_path %></li>
+                     
+                </ul> 
+            </div>
+         </nav> 
+    </div>
+
+    <div class="row" style = "padding-top: 70px"></div>

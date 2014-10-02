@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"as",
+				"aside	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"initial",
+				"initial_value"
+			],
+			[
+				"ini",
+				"initial_value"
+			],
+			[
+				"te",
+				"test2"
+			],
+			[
+				"en",
+				"enough_contrast"
+			],
+			[
+				"tes",
+				"test1"
+			],
+			[
+				"br",
+				"brightness_difference"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"another",
+				"another_color"
+			],
+			[
+				"bri",
+				"brightness_index"
+			],
+			[
+				"left",
+				"left_half"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"sent",
+				"sent_arr"
+			],
+			[
+				"length",
+				"length_finder"
+			],
+			[
+				"sub",
+				"subtract"
+			],
+			[
+				"su",
+				"shuffle"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"roman",
+				"roman_old"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html.erb",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/drew/Dropbox/the_odin_project/rails_blog/blog/app/views/welcome/index.html.erb",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/04_03.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_10.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/04_02.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/css/custom.css",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/custom-CSS.css",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/02_07.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_01.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_03.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_04.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_05.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_06.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_07.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/03_08.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/js/respond.js",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/02_06.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/02_05.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/02_04.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/02_03.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/02_02.html",
+		"/home/drew/Dropbox/Bootstrap Project/bootstrap-3.2.0-dist/index.html",
+		"/home/drew/Dropbox/the_odin_project/Ruby Project_spec/rspec_project/learn_ruby/00_hello/spec_helper.rb",
+		"/home/drew/Dropbox/the_odin_project/Ruby Project_spec/rspec_project/learn_ruby/00_hello/hello_spec.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/fib.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/mult35.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/sum.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/combos.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/contrast.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/word_freq.rb",
+		"/home/drew/Desktop/Texts and Videos/Lynda.com - Ruby Essential Training/exercise_files/Chapter06/06_06_ruby_sandbox/methods.rb",
+		"/home/drew/Desktop/Texts and Videos/Lynda.com - Ruby Essential Training/exercise_files/Chapter06/06_06_ruby_sandbox/classes.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/sort_length.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/rand_elements.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/repeat.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/kaprekar.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/kap_test.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/string_length.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/exercises/calc.rb",
+		"/media/drew/5C9C-1B4F/Texts and Videos/Lynda.com - Ruby Essential Training/exercise_files/Chapter08/08_03_ruby_sandbox/file_location.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/module_dojo.rb",
+		"/media/drew/5C9C-1B4F/Texts and Videos/Lynda.com - Ruby Essential Training/exercise_files/Chapter08/08_03_ruby_sandbox/input_output.rb",
+		"/home/drew/Dropbox/the_odin_project/ruby_primer/calc.rb",
+		"/home/drew/Dropbox/the_odin_project/learn_to_program/dic_sort.rb",
+		"/home/drew/Dropbox/the_odin_project/learn_to_program/shuffle.rb",
+		"/home/drew/Dropbox/the_odin_project/learn_to_program/merge_sort.rb",
+		"/home/drew/Dropbox/the_odin_project/learn_to_program/shuffle=.rb",
+		"/home/drew/Dropbox/the_odin_project/learn_to_program/insertion.rb",
+		"/media/drew/5C9C-1B4F/the_odin_project/learn_to_code/world.rb",
+		"/media/drew/5C9C-1B4F/the_odin_project/learn_to_code/ask_rec.rb",
+		"/media/drew/5C9C-1B4F/the_odin_project/learn_to_code/factorial.rb",
+		"/media/drew/5C9C-1B4F/the_odin_project/learn_to_code/roman_new.rb",
+		"/media/drew/5C9C-1B4F/the_odin_project/learn_to_code/roman_old.rb",
+		"/media/drew/5C9C-1B4F/the_odin_project/learn_to_code/ask.rb",
+		"/home/drew/railsbridge/test_app/Gemfile",
+		"/home/drew/railsbridge/test_app/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.html.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

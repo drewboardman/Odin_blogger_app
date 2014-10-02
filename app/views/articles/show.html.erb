@@ -1,0 +1,32 @@
+<%= render 'header' %>
+<div class="container">
+	<div class="row">
+		<h2>Current Article</h2>
+		<table class="table table-bordered">
+		<th>ID</th>
+		<th>Title</th>
+		<th>Text</th>
+		<tr>
+			<td><%= @article.id %></td>
+			<td><%= @article.title %></td>
+			<td><%= @article.text %></td>
+		</tr>
+		</table>
+	</div>
+
+	<div class="row">
+
+		<div class="col-md-8">
+		<%= render partial: 'comments/comment' %>
+		</div>
+
+		<div class="col-md-4">
+		<h2>Add a comment:</h2>
+		<%= render partial: 'comments/form' %>
+		</div>
+
+	</div>
+	<%= link_to 'Back', articles_path %>
+	| <%= link_to 'Edit', edit_article_path(@article) %>
+
+</div>

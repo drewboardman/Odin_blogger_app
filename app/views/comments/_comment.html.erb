@@ -1,0 +1,26 @@
+<div class="detailBox">
+    <div class="titleBox">
+      <label>Comments</label>
+        <!-- <button type="button" class="close" aria-hidden="true">&times;</button> -->
+    </div>
+    <div class="actionBox">
+        <ul class="commentList">
+        <% @article.comments.each do |comment| %>
+
+            <li>
+                <div class="commenterImage">
+                  <span class = "glyphicon glyphicon-user"></span>
+                </div>
+                <div class="commentText">
+                    <p><strong><%= comment.commenter %></strong></p>
+                    <p><%= comment.body %></p> 
+                    <span class="date sub-text"><%= comment.created_at %></span>
+                    <span class = "sub-text">  <%= link_to 'Delete Comment', [comment.article, comment],
+                               method: :delete,
+                               data: { confirm: 'Are you sure?' } %></span>
+                </div>
+            </li>
+            <% end %>
+        </ul>
+    </div>
+</div>
